@@ -19,7 +19,7 @@ TrackNest is a stylish and user-friendly web-based money manager designed to hel
 
 ## Screenshots
 
-![App Screenshot 1](screenshots/screenshot1.png)
+![App Screenshot 1](TRACK.png)
 
 
 ## Technologies Used
@@ -38,6 +38,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**[Live Demo](https://your-demo-link.com)** | **[Report a Bug](https://github.com/your-username/tracknest/issues)**
+**[Live Demo](https://jaydale3221.github.io/TrackNest.github.io/)** | **[Report a Bug](https://github.com/your-username/tracknest/issues)**
 
-> Crafted with ❤️ by Jay
